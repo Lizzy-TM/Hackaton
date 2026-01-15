@@ -171,7 +171,7 @@ El modelo puede ser cargado por la API para realizar predicciones en tiempo real
 
 ## 13. Notas finales
 
-Este proyecto fue desarrollado con fines educativos dentro de un **hackathon**, priorizando:
+Este proyecto fue desarrollado dentro de un **hackathon**, priorizando:
 - Claridad metodológica.
 - Buenas prácticas de Data Science.
 - Aplicabilidad real al negocio.
